@@ -8,12 +8,11 @@ categories: monitoring
 
 Last november, I gave a talke about monitoring with *Kamon* and *Prometheus* in the PSUG.
 
-In this talk I used both tools to monitor a web application:
+In this talk I show how to monitor a web application:
 
-* The [first one](https://github.com/fagossa/play-prometheus/tree/kamon-akka-http), build with _akka-http_ used a directive
-to interact with a _minMaxCounter_.
+* The [first version](https://github.com/fagossa/play-prometheus/tree/kamon-akka-http) of the app was built with _akka-http_. It used a directive to interact with a _minMaxCounter_.
 
-* The [second](https://github.com/fagossa/play-prometheus/tree/prometheus-playFramework/app), used _playFramework_. Here, thanks to _ActionBuilder_ s we increase and decrease a _Gauge_.
+* The [second version](https://github.com/fagossa/play-prometheus/tree/prometheus-playFramework/app), used _playFramework_. Here, thanks to _ActionBuilder_ s we increase and decrease a _Gauge_.
 
 The video is available here:
 
