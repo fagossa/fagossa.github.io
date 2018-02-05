@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
-title: Fabian Blog
+title: Fabian's Blog
 email: #something@domain.tld
-description: Blog about the JSVM, scala and others
+description: Blog about the JVM, scala and others
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fagossa.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: fabgutierr
