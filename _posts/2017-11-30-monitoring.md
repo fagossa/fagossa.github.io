@@ -23,4 +23,4 @@ For more information, I've written a couple of blog post covering monitoring and
 
 * One covers [basic concepts and terminology](http://blog.xebia.fr/2017/07/28/superviser-mon-application-play-avec-prometheus).
 
-* The other handles mostly [alerting](https://en.fabernovel.com/insights/tech-en/alerting-in-prometheus-or-how-i-can-sleep-well-at-night).
+* The other handles mostly [alerting](https://www.fabernovel.com/en/engineering/alerting-in-prometheus-or-how-i-can-sleep-well-at-night).
